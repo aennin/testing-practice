@@ -1,4 +1,3 @@
-# Testing-Practice
 # Testing Practice
 
 This project is a JavaScript testing exercise focused on writing unit tests using **Jest** and practicing **test-driven development (TDD)**.
